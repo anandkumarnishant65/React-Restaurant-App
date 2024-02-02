@@ -24,7 +24,7 @@ const Dummy_MEALS=[
     {
         id:'m4',
         name:'Pizza',
-        description:'plain, corn, cheese burst',
+        description:'cheese burst, toppings of paneer, cpsicum, onion and jalapeno',
         price:250
     }
 ]
